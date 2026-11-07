@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mikebravo.mischartsapp",
+      "sha256_cert_fingerprints": [
+        "86:A4:6F:6A:A0:D4:38:19:B0:3B:D4:1B:FD:C7:C9:8E:8B:9E:D8:F2:93:B7:14:E3:B3:5A:EF:4E:E1:34:04:BD",
+        "1E:E9:B0:EE:79:3F:D4:E1:DC:5E:E0:CC:47:89:F6:2D:5F:39:B0:5F:57:F0:D2:A1:94:44:A3:4E:9F:70:8D:BF",
+        "A5:1E:E8:01:29:A9:D2:6F:60:3D:25:E4:E3:2C:FC:87:05:40:69:A1:30:51:2D:CA:B6:C0:2E:87:18:05:44:C5"
+      ]
+    }
+  }
+]
